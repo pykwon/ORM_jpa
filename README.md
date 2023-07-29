@@ -15,7 +15,8 @@ JPA를 자바 컬렉션에 객체를 저장하듯 JPA에게 저장할 객체를 
 INSERT SQL을 작성하고 JDBC API 사용하는 지루하고 반복적인 일을 JPA가 대신 처리해준다.
 CREATE TABLE같은 DDL문 자동 생성
 데이터베이스 설계 중심의 패러다임을 객체 설계 중심으로 역전
-Data JPA - Reference Documentation https://docs.spring.io/spring-data/jpa/docs/1.10.1.RELEASE/reference/html/#jpa.sample-app.finders.strategies
+
+Data JPA -참고합니다 ==>  https://docs.spring.io/spring-data/jpa/docs/1.10.1.RELEASE/reference/html/#jpa.sample-app.finders.strategies
 
 JPQL이란?
 엔티티 객체를 조회하는 객체지향 쿼리이다.
