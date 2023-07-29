@@ -23,4 +23,5 @@ JPQL이란?
 SQL은 데이터베이스 테이블을 대상으로 JPQL은 엔티티 객체를 대상으로 쿼리 한다.
 JPQL은 SQL을 추상화해서 특정 데이터베이스에 의존하지 않는다.
 JPQL은 최종적으로 SQL로 변환된다.
-JPQL 사용 : https://jang8584.tistory.com/282
+
+JPQL 사용 : 참고합니다 ==> https://jang8584.tistory.com/282
